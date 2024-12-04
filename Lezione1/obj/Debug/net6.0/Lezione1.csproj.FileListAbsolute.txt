@@ -1,0 +1,29 @@
+/home/its/Desktop/C-sharp/Lezione1/bin/Debug/net6.0/Lezione1
+/home/its/Desktop/C-sharp/Lezione1/bin/Debug/net6.0/Lezione1.deps.json
+/home/its/Desktop/C-sharp/Lezione1/bin/Debug/net6.0/Lezione1.runtimeconfig.json
+/home/its/Desktop/C-sharp/Lezione1/bin/Debug/net6.0/Lezione1.dll
+/home/its/Desktop/C-sharp/Lezione1/bin/Debug/net6.0/Lezione1.pdb
+/home/its/Desktop/C-sharp/Lezione1/obj/Debug/net6.0/Lezione1.csproj.AssemblyReference.cache
+/home/its/Desktop/C-sharp/Lezione1/obj/Debug/net6.0/Lezione1.GeneratedMSBuildEditorConfig.editorconfig
+/home/its/Desktop/C-sharp/Lezione1/obj/Debug/net6.0/Lezione1.AssemblyInfoInputs.cache
+/home/its/Desktop/C-sharp/Lezione1/obj/Debug/net6.0/Lezione1.AssemblyInfo.cs
+/home/its/Desktop/C-sharp/Lezione1/obj/Debug/net6.0/Lezione1.csproj.CoreCompileInputs.cache
+/home/its/Desktop/C-sharp/Lezione1/obj/Debug/net6.0/Lezione1.dll
+/home/its/Desktop/C-sharp/Lezione1/obj/Debug/net6.0/refint/Lezione1.dll
+/home/its/Desktop/C-sharp/Lezione1/obj/Debug/net6.0/Lezione1.pdb
+/home/its/Desktop/C-sharp/Lezione1/obj/Debug/net6.0/Lezione1.genruntimeconfig.cache
+/home/its/Desktop/C-sharp/Lezione1/obj/Debug/net6.0/ref/Lezione1.dll
+C:\Users\ghioc\OneDrive\Desktop\ITS Prodigi\C-sharp\lezione1\bin\Debug\net6.0\Lezione1.exe
+C:\Users\ghioc\OneDrive\Desktop\ITS Prodigi\C-sharp\lezione1\bin\Debug\net6.0\Lezione1.deps.json
+C:\Users\ghioc\OneDrive\Desktop\ITS Prodigi\C-sharp\lezione1\bin\Debug\net6.0\Lezione1.runtimeconfig.json
+C:\Users\ghioc\OneDrive\Desktop\ITS Prodigi\C-sharp\lezione1\bin\Debug\net6.0\Lezione1.dll
+C:\Users\ghioc\OneDrive\Desktop\ITS Prodigi\C-sharp\lezione1\bin\Debug\net6.0\Lezione1.pdb
+C:\Users\ghioc\OneDrive\Desktop\ITS Prodigi\C-sharp\lezione1\obj\Debug\net6.0\Lezione1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ghioc\OneDrive\Desktop\ITS Prodigi\C-sharp\lezione1\obj\Debug\net6.0\Lezione1.AssemblyInfoInputs.cache
+C:\Users\ghioc\OneDrive\Desktop\ITS Prodigi\C-sharp\lezione1\obj\Debug\net6.0\Lezione1.AssemblyInfo.cs
+C:\Users\ghioc\OneDrive\Desktop\ITS Prodigi\C-sharp\lezione1\obj\Debug\net6.0\Lezione1.csproj.CoreCompileInputs.cache
+C:\Users\ghioc\OneDrive\Desktop\ITS Prodigi\C-sharp\lezione1\obj\Debug\net6.0\Lezione1.dll
+C:\Users\ghioc\OneDrive\Desktop\ITS Prodigi\C-sharp\lezione1\obj\Debug\net6.0\refint\Lezione1.dll
+C:\Users\ghioc\OneDrive\Desktop\ITS Prodigi\C-sharp\lezione1\obj\Debug\net6.0\Lezione1.pdb
+C:\Users\ghioc\OneDrive\Desktop\ITS Prodigi\C-sharp\lezione1\obj\Debug\net6.0\Lezione1.genruntimeconfig.cache
+C:\Users\ghioc\OneDrive\Desktop\ITS Prodigi\C-sharp\lezione1\obj\Debug\net6.0\ref\Lezione1.dll

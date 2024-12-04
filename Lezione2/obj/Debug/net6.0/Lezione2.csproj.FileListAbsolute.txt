@@ -1,0 +1,15 @@
+/home/its/Desktop/C-sharp/Lezione2/obj/Debug/net6.0/Lezione2.csproj.AssemblyReference.cache
+/home/its/Desktop/C-sharp/Lezione2/obj/Debug/net6.0/Lezione2.GeneratedMSBuildEditorConfig.editorconfig
+/home/its/Desktop/C-sharp/Lezione2/obj/Debug/net6.0/Lezione2.AssemblyInfoInputs.cache
+/home/its/Desktop/C-sharp/Lezione2/obj/Debug/net6.0/Lezione2.AssemblyInfo.cs
+/home/its/Desktop/C-sharp/Lezione2/obj/Debug/net6.0/Lezione2.csproj.CoreCompileInputs.cache
+/home/its/Desktop/C-sharp/Lezione2/bin/Debug/net6.0/Lezione2
+/home/its/Desktop/C-sharp/Lezione2/bin/Debug/net6.0/Lezione2.deps.json
+/home/its/Desktop/C-sharp/Lezione2/bin/Debug/net6.0/Lezione2.runtimeconfig.json
+/home/its/Desktop/C-sharp/Lezione2/bin/Debug/net6.0/Lezione2.dll
+/home/its/Desktop/C-sharp/Lezione2/bin/Debug/net6.0/Lezione2.pdb
+/home/its/Desktop/C-sharp/Lezione2/obj/Debug/net6.0/Lezione2.dll
+/home/its/Desktop/C-sharp/Lezione2/obj/Debug/net6.0/refint/Lezione2.dll
+/home/its/Desktop/C-sharp/Lezione2/obj/Debug/net6.0/Lezione2.pdb
+/home/its/Desktop/C-sharp/Lezione2/obj/Debug/net6.0/Lezione2.genruntimeconfig.cache
+/home/its/Desktop/C-sharp/Lezione2/obj/Debug/net6.0/ref/Lezione2.dll
